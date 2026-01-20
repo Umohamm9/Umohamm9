@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭I’m Currently working on Data Visualisation.<br>🕴🏻I’m looking to collaborate on Open Source.<br>🤝I’m looking for help with Internship.<br>🌱I’m currently learning Data Science.<br>💬Ask me about My future plans and goals.<br>⚡️Fun fact -> I love data as much as I love cricket.
+🔭I’m Currently working on Data Engineering.<br>🕴🏻I’m looking to work as a Full-Time employee.<br>🤝I’m looking for help with Job.<br>🌱I’m currently learning AI in Data Science.<br>💬Ask me about My future plans and goals.<br>⚡️Fun fact -> I love data as much as I love cricket.
 
 
 ## 🌐 Socials:
